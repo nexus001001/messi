@@ -93,13 +93,13 @@
     ],
     "anuncios": [
         {
-            "mini_categoria": "Patrocinador",
-            "icono_adsm": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
-            "titulo": "Fut libre",
-            "descripcion": "Vive los mejores partidos ",
-            "titulo2": "fut libre Prueba",
-            "dev_ads": "Dev Nexus",
-            "link_ads": "https://example.com/ad1"
+            "mini_categoria": "coming son",
+            "icono_adsm": "https://i.ibb.co/T0C6Wnv/Letter-X-Logo-7.png",
+            "titulo": "Fut libre : Mejores canales ",
+            "descripcion": "Vive los mejores partidos  ",
+            "titulo2": "Fut Libre",
+            "dev_ads": "Dev Nexu",
+            "link_ads": "https://nexusplus.pages.dev/"
         },
         {
             "mini_categoria": "General",

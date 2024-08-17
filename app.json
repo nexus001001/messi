@@ -93,12 +93,12 @@
     ],
     "anuncios": [
         {
-            "mini_categoria": "General",
+            "mini_categoria": "Fut libre",
             "icono_adsm": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
-            "titulo": "Anuncio Aventura",
-            "descripcion": "Un emocionante anuncio de aventuras.",
-            "titulo2": "Anuncio Aventura",
-            "dev_ads": "Desarrollador A",
+            "titulo": "Fut libre",
+            "descripcion": "Vive los mejores partidos ",
+            "titulo2": "fut libre Prueba",
+            "dev_ads": "Dev Nexus",
             "link_ads": "https://example.com/ad1"
         },
         {

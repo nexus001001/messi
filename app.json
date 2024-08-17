@@ -94,7 +94,7 @@
     "anuncios": [
         {
             "mini_categoria": "General",
-            "icono_adsm": "https://example.com/icon1.png",
+            "icono_adsm": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
             "titulo": "Anuncio Aventura",
             "descripcion": "Un emocionante anuncio de aventuras.",
             "titulo2": "Anuncio Aventura",

@@ -103,12 +103,12 @@
         },
         {
             "mini_categoria": "General",
-            "icono_adsm": "https://example.com/icon2.png",
-            "titulo": "Anuncio Productividad",
-            "descripcion": "Anuncio para mejorar tu productividad.",
-            "titulo2": "Anuncio Productividad",
-            "dev_ads": "Desarrollador B",
-            "link_ads": "https://example.com/ad2"
+            "icono_adsm": "https://i.ibb.co/T0C6Wnv/Letter-X-Logo-7.png",
+            "titulo": "Nexus Futbol : Los mejores partidos",
+            "descripcion": "Disfruta de nuestra app sin anuncios.",
+            "titulo2": "Nexus Futbol",
+            "dev_ads": "Dev Nexus",
+            "link_ads": "nexusplus.pages.dev"
         }
     ],
     "versiones": [
@@ -119,9 +119,9 @@
             "mejoras": "Corrección de errores y mejoras de rendimiento"
         },
         {
-            "nombre_app": "Gestor de Tareas",
-            "version": "2.3.4",
-            "actualizacion_fecha": "2023-09-15",
+            "nombre_app": "nexus futbol",
+            "version": "1",
+            "actualizacion_fecha": "2024-08-18",
             "mejoras": "Nueva interfaz de usuario"
         },
         {

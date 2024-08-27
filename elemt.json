@@ -5,35 +5,40 @@
       "numero": "123456789",
       "descripcion": "Generador de tarjetas de crédito para múltiples países.",
       "titulo": "Generador de Tarjetas Internacional",
-      "descarga": "https://ejemplo.com/descargar-app-001"
+      "descarga": "https://ejemplo.com/descargar-app-001",
+      "imagen": "https://i.ibb.co/0ZyYwBz/tarjeta1.png"
     },
     {
       "id": "002",
       "numero": "987654321",
       "descripcion": "Aplicación de gestión de tarjetas para control de finanzas personales.",
       "titulo": "Controlador de Finanzas",
-      "descarga": "https://ejemplo.com/descargar-app-002"
+      "descarga": "https://ejemplo.com/descargar-app-002",
+      "imagen": "https://i.ibb.co/kMkgbrx/tarjeta2.png"
     },
     {
       "id": "003",
       "numero": "456789123",
       "descripcion": "Herramienta de seguimiento de gastos con múltiples funcionalidades.",
       "titulo": "Seguidor de Gastos",
-      "descarga": "https://ejemplo.com/descargar-app-003"
+      "descarga": "https://ejemplo.com/descargar-app-003",
+      "imagen": "https://i.ibb.co/z4LfFwh/tarjeta3.png"
     },
     {
       "id": "004",
       "numero": "789123456",
       "descripcion": "App de monitoreo y alertas para tarjetas de crédito.",
       "titulo": "Monitoreo de Tarjetas",
-      "descarga": "https://ejemplo.com/descargar-app-004"
+      "descarga": "https://ejemplo.com/descargar-app-004",
+      "imagen": "https://i.ibb.co/7RNRJxG/tarjeta4.png"
     },
     {
       "id": "005",
       "numero": "321654987",
       "descripcion": "Gestión segura de tarjetas con encriptación avanzada.",
       "titulo": "Gestión Segura de Tarjetas",
-      "descarga": "https://ejemplo.com/descargar-app-005"
+      "descarga": "https://ejemplo.com/descargar-app-005",
+      "imagen": "https://i.ibb.co/dP2kFqL/tarjeta5.png"
     }
   ],
   "anuncio": {

@@ -6,7 +6,8 @@
       "descripcion": "Prime Video es un servicio de streaming que ofrece una amplia selección de películas, programas de televisión, y originales de Amazon. Con una membresía de Prime, puedes disfrutar de contenido en alta calidad en cualquier dispositivo.",
       "titulo": "Prime Video",
       "descarga": "https://ejemplo.com/descargar-app-001",
-      "imagen": "https://i.ibb.co/XJ1FqHN/descarga-3.png"
+      "imagen": "https://i.ibb.co/XJ1FqHN/descarga-3.png",
+      "categoria": "Streaming"
     },
     {
       "id": "002",
@@ -14,7 +15,8 @@
       "descripcion": "Microsoft Office, ahora conocido como Microsoft 365, es una suite de aplicaciones de productividad que permite crear, compartir y colaborar en un solo lugar, incluyendo herramientas para la edición de documentos, cálculo, presentaciones, y más.",
       "titulo": "Office 365",
       "descarga": "https://ejemplo.com/descargar-app-002",
-      "imagen": "https://i.ibb.co/cw5H0gh/microsoft-lanza-actualizacion-trampa-office-solo-busca-informacion-2948992.webp"
+      "imagen": "https://i.ibb.co/cw5H0gh/microsoft-lanza-actualizacion-trampa-office-solo-busca-informacion-2948992.webp",
+      "categoria": "Productividad"
     },
     {
       "id": "003",
@@ -22,7 +24,8 @@
       "descripcion": "Canva es una herramienta de diseño gráfico en línea que permite crear una variedad de contenido como publicaciones en redes sociales, presentaciones, posters, videos y logotipos. Es gratuita y fácil de usar, diseñada para facilitar la creatividad de los usuarios.",
       "titulo": "Canva Pro",
       "descarga": "https://ejemplo.com/descargar-app-003",
-      "imagen": "https://i.ibb.co/84Q7Q96/Personal2x.png"
+      "imagen": "https://i.ibb.co/84Q7Q96/Personal2x.png",
+      "categoria": "Diseño"
     },
     {
       "id": "004",
@@ -30,7 +33,8 @@
       "descripcion": "Vix puede referirse a dos contextos diferentes. En entretenimiento, Vix es una plataforma de streaming que ofrece contenido bajo demanda como series, novelas y películas en español de forma gratuita.",
       "titulo": "Vix Pro",
       "descarga": "https://ejemplo.com/descargar-app-004",
-      "imagen": "https://i.ibb.co/NyjLLZj/28a2dfcb4bfda268d76bda5c733b0266.jpg"
+      "imagen": "https://i.ibb.co/NyjLLZj/28a2dfcb4bfda268d76bda5c733b0266.jpg",
+      "categoria": "Streaming"
     },
     {
       "id": "005",
@@ -38,7 +42,8 @@
       "descripcion": "tidal .",
       "titulo": "Gestión Segura",
       "descarga": "https://ejemplo.com/descargar-app-005",
-      "imagen": "https://i.ibb.co/GCzC3tg/piclumen-1724637566330.png"
+      "imagen": "https://i.ibb.co/GCzC3tg/piclumen-1724637566330.png",
+      "categoria": "Seguridad"
     },
     {
       "id": "006",
@@ -46,7 +51,8 @@
       "descripcion": "HBO Max es una plataforma de streaming que ofrece una amplia biblioteca de películas, series, documentales y contenido exclusivo de WarnerMedia, incluyendo los populares programas de HBO.",
       "titulo": "HBO Max",
       "descarga": "https://ejemplo.com/descargar-app-006",
-      "imagen": "https://i.ibb.co/JnWndPP/Max-HBO-Max-Warner-Bros-Discovery-Latinaomerica.webp"
+      "imagen": "https://i.ibb.co/JnWndPP/Max-HBO-Max-Warner-Bros-Discovery-Latinaomerica.webp",
+      "categoria": "Streaming"
     },
     {
       "id": "007",
@@ -54,7 +60,8 @@
       "descripcion": "Ideogram es una herramienta innovadora para diseñadores y creativos, permitiendo transformar conceptos en imágenes y gráficos de alta calidad, impulsada por inteligencia artificial.",
       "titulo": "Ideogram",
       "descarga": "https://ejemplo.com/descargar-app-007",
-      "imagen": "https://www.fahimai.com/wp-content/uploads/2024/03/i8-480x264.png"
+      "imagen": "https://www.fahimai.com/wp-content/uploads/2024/03/i8-480x264.png",
+      "categoria": "Diseño"
     },
     {
       "id": "008",
@@ -62,7 +69,8 @@
       "descripcion": "PicLumen, que te permite generar imágenes de IA gratuitas e ilimitadas todos los días sin ningún costo en la actualidad. Las imágenes generadas son de alta calidad y tienen diferentes estilos, incluidos el realista, el anime y el arte lineal.Mientras PicLumen sea gratuito, te sugiero que lo pruebes y disfrutes creando hermosas imágenes de IA.",
       "titulo": "Piclumen",
       "descarga": "https://ejemplo.com/descargar-app-008",
-      "imagen": "https://d1735p3aqhycef.cloudfront.net/topview_blog/thumbnail_521a05ff15e879f201c1fbe2d70b8f2f.jpg"
+      "imagen": "https://d1735p3aqhycef.cloudfront.net/topview_blog/thumbnail_521a05ff15e879f201c1fbe2d70b8f2f.jpg",
+      "categoria": "Creatividad"
     }
   ],
   "anuncio": {

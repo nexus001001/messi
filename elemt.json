@@ -3,18 +3,18 @@
     {
       "id": "001",
       "numero": "123456789",
-      "descripcion": "prime video .",
-      "titulo": "Generador de Tarjeta",
+      "descripcion": "Prime Video es un servicio de streaming que ofrece una amplia selección de películas, programas de televisión, y originales de Amazon. Con una membresía de Prime, puedes disfrutar de contenido en alta calidad en cualquier dispositivo.",
+      "titulo": "Prime Video",
       "descarga": "https://ejemplo.com/descargar-app-001",
-      "imagen": "https://i.ibb.co/GCzC3tg/piclumen-1724637566330.png"
+      "imagen": "https://i.ibb.co/XJ1FqHN/descarga-3.png"
     },
     {
       "id": "002",
       "numero": "987654321",
-      "descripcion": "Ofice .",
-      "titulo": "Controlador de Finanzas",
+      "descripcion": "Microsoft Office, ahora conocido como Microsoft 365, es una suite de aplicaciones de productividad que permite crear, compartir y colaborar en un solo lugar, incluyendo herramientas para la edición de documentos, cálculo, presentaciones, y más.",
+      "titulo": "Office 365",
       "descarga": "https://ejemplo.com/descargar-app-002",
-      "imagen": "https://i.ibb.co/GCzC3tg/piclumen-1724637566330.png"
+      "imagen": "https://i.ibb.co/cw5H0gh/microsoft-lanza-actualizacion-trampa-office-solo-busca-informacion-2948992.webp"
     },
     {
       "id": "003",

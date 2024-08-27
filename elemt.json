@@ -39,6 +39,30 @@
       "titulo": "Gestión Segura",
       "descarga": "https://ejemplo.com/descargar-app-005",
       "imagen": "https://i.ibb.co/GCzC3tg/piclumen-1724637566330.png"
+    },
+    {
+      "id": "006",
+      "numero": "741258963",
+      "descripcion": "HBO Max es una plataforma de streaming que ofrece una amplia biblioteca de películas, series, documentales y contenido exclusivo de WarnerMedia, incluyendo los populares programas de HBO.",
+      "titulo": "HBO Max",
+      "descarga": "https://ejemplo.com/descargar-app-006",
+      "imagen": "https://i.ibb.co/6HbXyJn/hbo-max.png"
+    },
+    {
+      "id": "007",
+      "numero": "852963741",
+      "descripcion": "Ideogram es una herramienta innovadora para diseñadores y creativos, permitiendo transformar conceptos en imágenes y gráficos de alta calidad, impulsada por inteligencia artificial.",
+      "titulo": "Ideogram",
+      "descarga": "https://ejemplo.com/descargar-app-007",
+      "imagen": "https://i.ibb.co/fxRkYQs/ideogram.png"
+    },
+    {
+      "id": "008",
+      "numero": "963258741",
+      "descripcion": "Piclumen es una aplicación de edición fotográfica avanzada que ofrece herramientas de calidad profesional para mejorar, retocar y transformar imágenes con precisión.",
+      "titulo": "Piclumen",
+      "descarga": "https://ejemplo.com/descargar-app-008",
+      "imagen": "https://i.ibb.co/GCzC3tg/piclumen-1724637566330.png"
     }
   ],
   "anuncio": {

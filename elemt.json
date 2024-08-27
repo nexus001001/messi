@@ -1,0 +1,48 @@
+{
+  "registros": [
+    {
+      "id": "001",
+      "numero": "123456789",
+      "descripcion": "Generador de tarjetas de crédito para múltiples países.",
+      "titulo": "Generador de Tarjetas Internacional",
+      "descarga": "https://ejemplo.com/descargar-app-001"
+    },
+    {
+      "id": "002",
+      "numero": "987654321",
+      "descripcion": "Aplicación de gestión de tarjetas para control de finanzas personales.",
+      "titulo": "Controlador de Finanzas",
+      "descarga": "https://ejemplo.com/descargar-app-002"
+    },
+    {
+      "id": "003",
+      "numero": "456789123",
+      "descripcion": "Herramienta de seguimiento de gastos con múltiples funcionalidades.",
+      "titulo": "Seguidor de Gastos",
+      "descarga": "https://ejemplo.com/descargar-app-003"
+    },
+    {
+      "id": "004",
+      "numero": "789123456",
+      "descripcion": "App de monitoreo y alertas para tarjetas de crédito.",
+      "titulo": "Monitoreo de Tarjetas",
+      "descarga": "https://ejemplo.com/descargar-app-004"
+    },
+    {
+      "id": "005",
+      "numero": "321654987",
+      "descripcion": "Gestión segura de tarjetas con encriptación avanzada.",
+      "titulo": "Gestión Segura de Tarjetas",
+      "descarga": "https://ejemplo.com/descargar-app-005"
+    }
+  ],
+  "anuncio": {
+    "titulo": "Promoción de Verano",
+    "subtitulo": "Hasta 50% de descuento en productos seleccionados",
+    "imagen": "https://i.ibb.co/GCzC3tg/piclumen-1724637566330.png",
+    "mini_titulo": "Descuentos de Verano",
+    "desarrollador": "Compañía XYZ",
+    "categoria": "Promociones",
+    "link": "https://ejemplo.com/promocion-verano"
+  }
+}

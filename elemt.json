@@ -3,7 +3,7 @@
     {
       "id": "001",
       "numero": "123456789",
-      "descripcion": "Generador de tarjetas .",
+      "descripcion": "prime video .",
       "titulo": "Generador de Tarjeta",
       "descarga": "https://ejemplo.com/descargar-app-001",
       "imagen": "https://i.ibb.co/GCzC3tg/piclumen-1724637566330.png"
@@ -11,7 +11,7 @@
     {
       "id": "002",
       "numero": "987654321",
-      "descripcion": "Aplicación de gestión .",
+      "descripcion": "Ofice .",
       "titulo": "Controlador de Finanzas",
       "descarga": "https://ejemplo.com/descargar-app-002",
       "imagen": "https://i.ibb.co/GCzC3tg/piclumen-1724637566330.png"
@@ -19,7 +19,7 @@
     {
       "id": "003",
       "numero": "456789123",
-      "descripcion": "Herramienta de seguimiento.",
+      "descripcion": "canva.",
       "titulo": "Seguidor de Gastos",
       "descarga": "https://ejemplo.com/descargar-app-003",
       "imagen": "https://i.ibb.co/GCzC3tg/piclumen-1724637566330.png"
@@ -27,27 +27,27 @@
     {
       "id": "004",
       "numero": "789123456",
-      "descripcion": "App de monitoreo.",
-      "titulo": "Monitoreo de Tarjetas",
+      "descripcion": "paramount.",
+      "titulo": "Monitoreo de ",
       "descarga": "https://ejemplo.com/descargar-app-004",
       "imagen": "https://i.ibb.co/GCzC3tg/piclumen-1724637566330.png"
     },
     {
       "id": "005",
       "numero": "321654987",
-      "descripcion": "Gestión segura .",
+      "descripcion": "tidal .",
       "titulo": "Gestión Segura",
       "descarga": "https://ejemplo.com/descargar-app-005",
       "imagen": "https://i.ibb.co/GCzC3tg/piclumen-1724637566330.png"
     }
   ],
   "anuncio": {
-    "titulo": "Promoción de Verano",
-    "subtitulo": "Hasta 50% de descuento en productos seleccionados",
+    "titulo": "Bins app",
+    "subtitulo": "Mejores Bins seleccionados",
     "imagen": "https://i.ibb.co/GCzC3tg/piclumen-1724637566330.png",
-    "mini_titulo": "Descuentos de Verano",
-    "desarrollador": "Compañía XYZ",
-    "categoria": "Promociones",
+    "mini_titulo": "Verano",
+    "desarrollador": "Dev Nexus",
+    "categoria": "New app",
     "link": "https://ejemplo.com/promocion-verano"
   }
 }

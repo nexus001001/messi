@@ -4,7 +4,7 @@
       "id": "001",
       "numero": "123456789",
       "descripcion": "Generador de tarjetas .",
-      "titulo": "Generador de Tarjetas Internacional",
+      "titulo": "Generador de Tarjeta",
       "descarga": "https://ejemplo.com/descargar-app-001",
       "imagen": "https://i.ibb.co/GCzC3tg/piclumen-1724637566330.png"
     },
@@ -36,7 +36,7 @@
       "id": "005",
       "numero": "321654987",
       "descripcion": "Gestión segura .",
-      "titulo": "Gestión Segura de Tarjetas",
+      "titulo": "Gestión Segura",
       "descarga": "https://ejemplo.com/descargar-app-005",
       "imagen": "https://i.ibb.co/GCzC3tg/piclumen-1724637566330.png"
     }

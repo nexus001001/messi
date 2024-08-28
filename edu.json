@@ -2,13 +2,13 @@
   "app": [
     {
       "id": 1,
-      "name": "Nexus Futbol",
-      "categoria": "Propia Apk",
+      "name": "You Cine",
+      "categoria": "Apk",
       "descripcion": "Un smartphone de última generación con pantalla OLED.",
-      "link": "https://devuploads.com/3se2pn1w786o",
-      "imagen": "https://ugc.production.linktr.ee/6850b2a5-d5e9-4af9-9360-fd65cf94a0be_image.png"
+      "link": "https://tvapk.link/nexus/",
+      "imagen": "https://ugc.production.linktr.ee/2dbe2154-6b31-4756-a81b-7859c9210eb7_image.png"
     },
-    {
+    { 
       "id": 2,
       "name": "Fut Libre",
       "categoria": "Propia Apk",
@@ -231,6 +231,14 @@
       "descripcion": "Itranslate",
       "link": "https://devuploads.com/2o3tt5wwzc2j",
       "imagen": "https://ugc.production.linktr.ee/693cad5e-2284-43c5-b018-4b46a6a3181d_image.png"
+    },
+     {
+      "id": 30,
+      "name": "Nexus Futbol",
+      "categoria": "Propia Apk",
+      "descripcion": "Un smartphone de última generación con pantalla OLED.",
+      "link": "https://devuploads.com/3se2pn1w786o",
+      "imagen": "https://ugc.production.linktr.ee/6850b2a5-d5e9-4af9-9360-fd65cf94a0be_image.png"
     }
   ],
   "anuncio": {

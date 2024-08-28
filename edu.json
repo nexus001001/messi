@@ -17,11 +17,11 @@
       "imagen": "https://ugc.production.linktr.ee/23d24e72-066b-4105-b558-d71111ca4da1_image.png"
     },
     {
-      "id": 3,
-      "name": "itranslate",
-      "categoria": "Mod Apk",
+      "id": 3,  
+      "name": "Nexus Gen",
+      "categoria": "Propia Apk",
       "descripcion": "Itranslate",
-      "link": "https://devuploads.com/2o3tt5wwzc2j",
+      "link": "https://devuploads.com/r3kglmse47mw",
       "imagen": "https://ugc.production.linktr.ee/693cad5e-2284-43c5-b018-4b46a6a3181d_image.png"
     },
     {
@@ -223,6 +223,14 @@
       "descripcion": "Plataforma de lectura sin anuncios.",
       "link": "https://devuploads.com/b8d0tjv85g38",
       "imagen": "https://ugc.production.linktr.ee/ca598054-bdfd-44cb-a622-f45a0faaddf8_image.png"
+    },
+     {
+      "id": 29,
+      "name": "itranslate",
+      "categoria": "Mod Apk",
+      "descripcion": "Itranslate",
+      "link": "https://devuploads.com/2o3tt5wwzc2j",
+      "imagen": "https://ugc.production.linktr.ee/693cad5e-2284-43c5-b018-4b46a6a3181d_image.png"
     }
   ],
   "anuncio": {

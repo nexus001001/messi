@@ -16,7 +16,7 @@
       "titulo": "Office 365",
       "descarga": "https://ejemplo.com/descargar-app-002",
       "imagen": "https://i.ibb.co/cw5H0gh/microsoft-lanza-actualizacion-trampa-office-solo-busca-informacion-2948992.webp",
-      "categoria": "Bin"
+      "categoria": "Bin disponible"
     },
     {
       "id": "003",
@@ -34,7 +34,7 @@
       "titulo": "Vix Pro",
       "descarga": "https://ejemplo.com/descargar-app-004",
       "imagen": "https://i.ibb.co/NyjLLZj/28a2dfcb4bfda268d76bda5c733b0266.jpg",
-      "categoria": "Streaming"
+      "categoria": "Bin disponible"
     },
     {
       "id": "005",
@@ -43,7 +43,7 @@
       "titulo": "Youtube Premiun",
       "descarga": "https://ejemplo.com/descargar-app-005",
       "imagen": "https://fdn.gsmarena.com/imgroot/news/21/02/youtube-android-4k-playback-option/-1200/gsmarena_000.jpg",
-      "categoria": "Bin"
+      "categoria": "Bin disponible"
     },
     {
       "id": "006",
@@ -61,7 +61,7 @@
       "titulo": "Ideogram",
       "descarga": "https://ejemplo.com/descargar-app-007",
       "imagen": "https://www.fahimai.com/wp-content/uploads/2024/03/i8-480x264.png",
-      "categoria": "herramienta"
+      "categoria": "Herramienta"
     },
     {
       "id": "008",
@@ -70,7 +70,7 @@
       "titulo": "Piclumen",
       "descarga": "https://ejemplo.com/descargar-app-008",
       "imagen": "https://d1735p3aqhycef.cloudfront.net/topview_blog/thumbnail_521a05ff15e879f201c1fbe2d70b8f2f.jpg",
-      "categoria": "herramienta"
+      "categoria": "Herramienta"
     }
   ],
   "anuncio": {

@@ -68,5 +68,15 @@
     "codigo": "018",
     "id-video": "video_73524ef285fdcd097ab3af4c6587ca0b", 
     "titulo": "Tutorial CLOUDFLARE: Protege tu WEB contra ATAQUES en minutos y gratis" 
+  },
+  {
+    "codigo": "019",
+    "id-video": "video_54cc238d7906dfa3f1dfe6ddc874e3b9", 
+    "titulo": "Cómo crear una Página con CANVA 2024" 
+  },
+   {
+    "codigo": "020",
+    "id-video": "video_0a3bc12526a85bc51a268b52a09e7c13", 
+    "titulo": "Crea Diagramas con Mermaid y ChatGPT" 
   }
 ]

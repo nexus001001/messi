@@ -1,13 +1,13 @@
 [
   {
     "codigo": "005",
-    "id-video": "video_1357489926523f0ea3958d2ecdee5cbc",
-    "titulo": "Feid, ATL Jacob - Luna"
+    "id-video": "video_7e172575cc9f33a798b26248ff26c81b",
+    "titulo": "Creo imágenes SIN Censura por IA GRATIS 🚫"
   },
-  {
+    {
     "codigo": "006",
-    "id-video": "video_03df6160558e5551524bbf40805ec4bb",
-    "titulo": "Vercel v0 chat - futuro de la programación"
+    "id-video": "video_d58f2c012476d946f9fe01e621e731ba", 
+    "titulo": "Curso de WEB SCRAPING con PYTHON para PRINCIPIANTES" 
   },
   {
     "codigo": "007",
@@ -22,7 +22,7 @@
   {
     "codigo": "009",
     "id-video": "video_0b201bb2ea401b6bf39c11f2c27b7ea3",
-    "titulo": "Shodan: El google del aldo oscuro del internet" 
+    "titulo": "Shodan: El google del lado oscuro del internet" 
   },
   {
     "codigo": "010",
@@ -67,7 +67,7 @@
   {
     "codigo": "018",
     "id-video": "video_73524ef285fdcd097ab3af4c6587ca0b", 
-    "titulo": "Tutorial CLOUDFLARE: Protege tu WEB contra ATAQUES en minutos y gratis" 
+    "titulo": "CLOUDFLARE: Protege tu WEB contra ATAQUES en minutos y gratis" 
   },
   {
     "codigo": "019",
@@ -78,5 +78,20 @@
     "codigo": "020",
     "id-video": "video_0a3bc12526a85bc51a268b52a09e7c13", 
     "titulo": "Crea Diagramas con Mermaid y ChatGPT" 
+  },
+    {
+    "codigo": "021",
+    "id-video": "video_1357489926523f0ea3958d2ecdee5cbc", 
+    "titulo": "Music Feid - Luna" 
+  },
+   {
+    "codigo": "022",
+    "id-video": "video_de3daa77f2f57bfba7a40ff302755441", 
+    "titulo": "Crear una PÁGINA WEB con Google Sites GRATIS (2024)" 
+  },
+   {
+    "codigo": "023",
+    "id-video": "video_03df6160558e5551524bbf40805ec4bb",
+    "titulo": "Vercel v0 chat - Crea codigo"
   }
 ]

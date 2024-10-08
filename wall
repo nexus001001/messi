@@ -1,0 +1,79 @@
+{
+    "wallpapers": [
+        {
+            "id": 1,
+            "title": "Sunset Beach",
+            "image_url": "https://ideogram.ai/assets/image/lossless/response/_XAmoD9rScW92wMWVtSgnA"
+        },
+        {
+            "id": 2,
+            "title": "Mountain Peak",
+            "image_url": "https://ideogram.ai/assets/image/lossless/response/lE5iq65WQyu3cQjh6mIstA"
+        },
+        {
+            "id": 3,
+            "title": "Ocean Waves",
+            "image_url": "https://ideogram.ai/assets/image/lossless/response/Pqibx-qyTAihUNSO57GMMg"
+        },
+        {
+            "id": 4,
+            "title": "Starry Night",
+            "image_url": "https://ideogram.ai/assets/image/lossless/response/P398Ogp2Riel6wNDr72Ltw"
+        },
+        {
+            "id": 5,
+            "title": "Desert Dunes",
+            "image_url": "https://ideogram.ai/assets/image/lossless/response/Ball-7DBRbWa29plQ7pzOQ"
+        },
+        {
+            "id": 6,
+            "title": "Misty Mountains",
+            "image_url": "https://ideogram.ai/assets/image/lossless/response/-sL_1bmPQmCDSwk0immY1Q"
+        },
+        {
+            "id": 7,
+            "title": "City Lights",
+            "image_url": "https://ideogram.ai/assets/image/lossless/response/7xHk1YzWMrC0a8tx4KGV1g"
+        },
+        {
+            "id": 8,
+            "title": "Forest Path",
+            "image_url": "https://ideogram.ai/assets/image/lossless/response/NbD_PV_w6PY1nQkKZmIw2g"
+        },
+        {
+            "id": 9,
+            "title": "Rainy Day",
+            "image_url": "https://ideogram.ai/assets/image/lossless/response/ZlEzW2AwXkK8pH1mLlV43Q"
+        },
+        {
+            "id": 10,
+            "title": "Snowy Landscape",
+            "image_url": "https://ideogram.ai/assets/image/lossless/response/m3IW1RauS4mMEqG5Fhwq2A"
+        },
+        {
+            "id": 11,
+            "title": "Calm Lake",
+            "image_url": "https://ideogram.ai/assets/image/lossless/response/FezH9CLuTxyiYNxE_PY77g"
+        },
+        {
+            "id": 12,
+            "title": "Vibrant Flowers",
+            "image_url": "https://ideogram.ai/assets/image/lossless/response/Fj51yUK2Sg6Kxh5xnz32vA"
+        },
+        {
+            "id": 13,
+            "title": "Autumn Leaves",
+            "image_url": "https://ideogram.ai/assets/image/lossless/response/AxPqzEj_a2ZCVdHRY0XbbA"
+        },
+        {
+            "id": 14,
+            "title": "Tropical Paradise",
+            "image_url": "https://ideogram.ai/assets/image/lossless/response/8smB2UZGWEZgkjO3PV0lMw"
+        },
+        {
+            "id": 15,
+            "title": "Wildlife Safari",
+            "image_url": "https://ideogram.ai/assets/image/lossless/response/PLJdFk3B8lF9PjT98N19lQ"
+        }
+    ]
+}

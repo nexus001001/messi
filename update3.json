@@ -8,7 +8,7 @@
       "Mejoras de rendimiento",
       "Nuevas funcionalidades"
     ],
-    "forceUpdate": false,
+    "forceUpdate": true,
     "updateMessage": "Hay una nueva versión disponible. ¿Deseas actualizar ahora?"
   }
 }

@@ -1,0 +1,14 @@
+{
+  "appUpdate": {
+    "version": "2.0.0",
+    "minAndroidVersion": "9.0",
+    "updateUrl": "https://ejemplo.com/tu-app-v2.0.0.apk",
+    "changeLog": [
+      "Compatibilidad con Android 13",
+      "Mejoras de rendimiento",
+      "Nuevas funcionalidades"
+    ],
+    "forceUpdate": false,
+    "updateMessage": "Hay una nueva versión disponible. ¿Deseas actualizar ahora?"
+  }
+}

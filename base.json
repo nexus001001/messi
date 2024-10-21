@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "password": "securepass123",
+      "profileImage": "profile_john"
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "password": "strongpass456",
+      "profileImage": "profile_jane"
+    }
+  ],
+  "stories": [
+    {
+      "id": 1,
+      "userId": 1,
+      "storyImage": "story_image_1",
+      "storyUsername": "john_doe",
+      "storyUrl": "https://example.com/story1"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "storyImage": "story_image_2",
+      "storyUsername": "jane_smith",
+      "storyUrl": "https://example.com/story2"a
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "imageUrl": "post_image_1",
+      "caption": "Beautiful day at the beach! #summer",
+      "likes": 1234,
+      "comments": [
+        {
+          "userId": 2,
+          "text": "Looks amazing!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "imageUrl": "post_image_2",
+      "caption": "Just finished my morning run #fitness",
+      "likes": 5678,
+      "comments": [
+        {
+          "userId": 1,
+          "text": "Great job!"
+        }
+      ]
+    }
+  ]
+}

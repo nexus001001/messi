@@ -17,23 +17,25 @@
     {
       "id": 1,
       "userId": 1,
-      "storyImage": "story_image_1",
+      "storyImage": "https://cdn3.pixelcut.app/1/3/profile_picture_1728ecf2bd.jpg",
       "storyUsername": "john_doe",
       "storyUrl": "https://example.com/story1"
     },
     {
       "id": 2,
       "userId": 2,
-      "storyImage": "story_image_2",
+      "storyImage": "https://cdn3.pixelcut.app/1/3/profile_picture_1728ecf2bd.jpg",
       "storyUsername": "jane_smith",
-      "storyUrl": "https://example.com/story2"a
+      "storyUrl": "https://example.com/story2"
     }
   ],
   "posts": [
     {
       "id": 1,
       "userId": 1,
-      "imageUrl": "post_image_1",
+      "username": "john_doe",
+      "profileImageResId": "https://cdn3.pixelcut.app/1/3/profile_picture_1728ecf2bd.jpg",
+      "imageResId": "https://mediamodifier.com/blog/wp-content/uploads/2021/02/how-to-make-a-fake-instagram-profile.jpg",
       "caption": "Beautiful day at the beach! #summer",
       "likes": 1234,
       "comments": [
@@ -46,7 +48,9 @@
     {
       "id": 2,
       "userId": 2,
-      "imageUrl": "post_image_2",
+      "username": "jane_smith",
+      "profileImageResId": "https://cdn3.pixelcut.app/1/3/profile_picture_1728ecf2bd.jpg",
+      "imageResId": "https://mediamodifier.com/blog/wp-content/uploads/2021/02/how-to-make-a-fake-instagram-profile.jpg",
       "caption": "Just finished my morning run #fitness",
       "likes": 5678,
       "comments": [

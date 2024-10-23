@@ -2,11 +2,11 @@
   "app": [
     {
       "id": 1,
-      "name": "You Cine",
-      "categoria": "Mod APK",
-      "descripcion": "Un smartphone de última generación con pantalla OLED.",
-      "link": "https://tvapk.link/nexus",
-    "imagen": "https://ugc.production.linktr.ee/2dbe2154-6b31-4756-a81b-7859c9210eb7_image.png"
+      "name": "Quark VPN",
+      "categoria": "Mod apk",
+      "descripcion": "Servicio de VPN para navegación segura.",
+      "link": "https://www.mediafire.com/file/mx5t81gpky9kz27/QuarkVPN_2.1.2.apk/file",
+      "imagen": "https://ugc.production.linktr.ee/a2cf288b-9aeb-4ff9-bfb8-9a01064a926e_image.png"
     },
    {
       "id": 2,
@@ -263,14 +263,6 @@
       "descripcion": "Aplicación de videos personalizada.",
       "link": "https://www.mediafire.com/file/j8scnfifsprpdm2/smarttube_22.38_%2528by_mod_%25C3%25B0%25C2%25A8%25C3%25B0%25C2%25B4%2529.apk/file",
       "imagen": "https://ugc.production.linktr.ee/660a4ae2-2180-4d37-919c-0bb51fc3f9e2_image.png"
-    },
-     {
-      "id": 34,
-      "name": "Quark VPN",
-      "categoria": "Mod apk",
-      "descripcion": "Servicio de VPN para navegación segura.",
-      "link": "https://www.mediafire.com/file/mx5t81gpky9kz27/QuarkVPN_2.1.2.apk/file",
-      "imagen": "https://ugc.production.linktr.ee/a2cf288b-9aeb-4ff9-bfb8-9a01064a926e_image.png"
     }
   ],
  "anuncio": {

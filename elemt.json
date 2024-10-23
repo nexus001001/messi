@@ -74,12 +74,12 @@
     }
   ],
   "anuncio": {
-    "titulo": "You Cine",
-    "subtitulo": "YouCine es una aplicación de streaming apta para todas las edades Series y películas, deportes, sin publicidad.",
-    "imagen": "https://ugc.production.linktr.ee/2dbe2154-6b31-4756-a81b-7859c9210eb7_image.png",
-     "mini_titulo": "You Cine ",
-    "desarrollador": "Dev You Cine",
-    "categoria": "Patrocinador",
-    "link": "https://tvapk.link/nexus/"
+      "titulo": "Telegram Oficial",
+    "subtitulo": "Enterate de las novedades en actualizaviones y mas",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Telegram_alternative_logo.svg",
+     "mini_titulo": "Telegram ",
+    "desarrollador": "Nexus",
+    "categoria": "Channel",
+    "link": "https://t.me/neapk"
   }
 }

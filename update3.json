@@ -2,13 +2,13 @@
   "appUpdate": {
     "version": "1.0",
     "minAndroidVersion": "9.0",
-    "updateUrl": "https://ejemplo.com/tu-app-v2.0.0.apk",
+    "updateUrl": "https://nexus001001.github.io/messi/update3.json",
     "changeLog": [
       "Compatibilidad con Android 13",
       "Mejoras de rendimiento",
       "Nuevas funcionalidades"
     ],
-    "forceUpdate": false,
+    "forceUpdate": true,
     "updateMessage": "Hay una nueva versión disponible. ¿Deseas actualizar ahora?"
   }
 }

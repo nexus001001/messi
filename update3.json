@@ -10,5 +10,9 @@
     ],
     "forceUpdate": false,
     "updateMessage": "Hay una nueva versión disponible. ¿Deseas actualizar ahora?"
+  },
+  "credentials": {
+    "username": "prueba1",
+    "password": "123456"
   }
 }

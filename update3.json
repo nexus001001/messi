@@ -1,6 +1,6 @@
 {
   "appUpdate": {
-    "version": "1.0",
+    "version": "2.0",
     "minAndroidVersion": "9.0",
     "updateUrl": "https://nexus001001.github.io/messi/update3.json",
     "changeLog": [
